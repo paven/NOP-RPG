@@ -1,0 +1,167 @@
+Karaktärsbyggande
+
+Ras
+	Människa
+	Dvärg
+	Alv
+	Troll
+
+Bakgrund
+	1-8, Föräldralös, landsbygd (omhändertagen och uppfostrad som dräng/piga)
+	9-16, Föräldralös, stadsmiljö (barnhem, gatubarn)
+	17-20, Adopterad, landsbygd (uppfostrad som ett av de egna barnen)
+	21-24, Adopterad, stadsmiljö (börjat på barnhem, därefter adopterad av familj som ett eget barn 
+		alt. adopterad av släktingar)
+	25-62, Uppväxt hos föräldrar, landsbygd
+	63-100, Uppväxt hos föräldrar, stadsmiljö
+
+Börd
+	1-4, Livegen
+	5-84, Fri
+	85-100, Adel
+		1-79, Lågadel
+		80-99, Högadel
+		100, Kunglig
+
+Familjeförmögenhet, kombineras med börd för föräldrars situation
+	1-4, Fattigast av de fattiga
+	5-19, Knapert
+	20-79, Medel
+	80-99, Rik
+	100, Rikast i landet
+	
+Familjens yrke
+	Landsbygd			
+		1-49, Lantbruk
+		50-59, Handel
+		60-69, Hantverk
+		70-79, Militär
+		80-89, Kyrka
+		90-94, Lärd (Magiker, Helare, Lärare, Lagkunnig, Forskare, Politiker)
+		95-99, Brottslighet
+		100, Dagdrivare
+
+	Stadsmiljö
+		1-39, Handel
+		40-64, Hantverk
+		65-77, Militär
+		78-84, Kyrka
+		85-94, Lärd (Magiker, Helare, Lärare, Lagkunnig, Forskare, Politiker)
+		95-99, Brottslighet
+		100, Dagdrivare
+
+Egenskaper
+	Mentala
+		Artistisk
+		Bra koncentrationsförmåga
+		Charmig
+		Djurvän
+		Empatisk
+		Fobi
+		Fotografiskt minne
+		Gott lokalsinne
+		Intelligent
+		Logisk
+		Lättlärd
+		Musiköra
+		Nattuggla
+		Orädd
+		Ouppmärksam
+		Påhittig
+		Rädd
+		Snabbtänkt
+		Språköra
+		Svårlärd
+		Särskild talang (slå för kunskapsfärdighet)
+		Tankspridd
+		Tondöv
+		Uppmärksam
+		Vetgirig
+		Viljestark
+		Vältalig
+		
+	Fysiska
+		Akrobatisk
+		Ambidextruös
+		Blixtrande reflexer
+		Dubbelhänt
+		Fingerfärdig
+		Frisk
+		Färgblind
+		God precision
+		Kort
+		Lungstark
+		Lång
+		Läkekött
+		Nattseende
+		Perfekt hörsel
+		Perfekt lukt
+		Perfekt syn
+		Smal
+		Smidig
+		Smärttålig
+		Stark
+		Stel
+		Svag
+		Särskild talang (slå för fysisk färdighet)
+		Tjock
+		Tålig
+		Vacker
+
+	Övernaturliga
+		Andesyn
+		Astralresande
+		Besatt
+		Extrem fysisk egenskap (slå ett slag på fysisk)
+		Extrem mental egenskap (slå ett slag på mental)
+		Familiarius
+		Formskiftare
+		Förfadersande
+		Förhäxad (ex midas-händer, kan aldrig äta sig mätt...)
+		Förståelse för det magiska
+		Helande händer
+		Helig
+		Hemsökt
+		Hypnotisk blick
+		Häxmärke (du har ett märklig märke på kroppen. De som ser det tror att du är märkt av häxor)
+		Magikännare
+		Magisk affinitet
+		Medfödd magi
+		Medium
+		Mental motståndskraft
+		Odödlig
+		Omagisk (kan ej bli påverkad av eller använda magi)
+		Ormtunga (vad du än säger så tror andra dig)
+		Otur
+		Reinkarnation
+		Spirituell talang
+		Stillande blick
+		Synsk
+		Tala med djur
+		Tur
+		Utvald av gudom
+		Välsignad (ex tur i kärlek eller spel, behöver aldrig gå hungrig, är alltid välkommen, saknar aldrig pengar...)
+		Älvblod (kan se älvor)
+
+Barndom
+Livegen	Frigiven
+	Såld med familj, föddes någon annanstans
+	Väl behandlad, +lojalitet, +hälsa
+Fri	Såld ensam, ingen kontakt med familj, föddes någon annanstans
+	Barnarbete, +yrke
+Adel	Slagen och svulten, -lojalitet, -hälsa
+	Bortbytt, bor nu hos troll (slå om för bakgrund för trollfamiljen)
+	Charmat inflytelserik person, denne ger dig fördelar när hen kan
+	Skadad, slå för typ av skada
+	Frälst
+	Omhändertagen av släkting (slå om familjeförmögenhet och familjens yrke)
+	Ena föräldern dör (1-50 mor, 51-100 far)
+-liveg.	Skolgång, +kunskapsfärdigheter
+	Lärling, +hantverksfärdighet
+	Väsentlig ekonomisk förbättring (höj ett steg på familjeförmögenhet)
+	Väsentlig ekonomisk försämring (sänk ett steg på familjeförmögenhet)
+	Bortrövad, numera livegen (slå ett slag på livegen, barndom)
+	Bortlovad, ska gifta sig runt 18 år
+	Ny adelstitel
+-fri	Militärutbildning, +vapenfärdighet
+	Får plats i hovet, som kunglig väpnare eller hovdam eller liknande (är du kunglig, slå om slaget)
