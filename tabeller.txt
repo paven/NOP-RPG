@@ -165,3 +165,10 @@ Adel	Slagen och svulten, -lojalitet, -hälsa
 	Ny adelstitel
 -fri	Militärutbildning, +vapenfärdighet
 	Får plats i hovet, som kunglig väpnare eller hovdam eller liknande (är du kunglig, slå om slaget)
+
+Händelser
+	.
+
+Huvudsaklig aktivitet
+	Utbildning
+	Arbete
